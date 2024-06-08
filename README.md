@@ -22,6 +22,38 @@ To use the REST_APIs use this url
 ```bash
   https://jwt-authentication-authorization-for.onrender.com/
 ```
+## Project Roadmap
+
+### 1. Set Up the Environment
+- **Install JDK 17**
+  - Download from the official [Oracle JDK website](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+- **Install an IDE**
+  - Download and install IntelliJ IDEA or Eclipse
+  - Configure IDE for Java 17
+  - Install necessary plugins for Spring Boot development
+
+### 2. Configure Spring Boot
+- **Install Spring Boot 3.3.0**
+  - Add the Spring Boot starter parent dependency in your `pom.xml` or `build.gradle`
+  - Ensure the correct version (`3.3.0`) is specified
+### 3. Import Important Dependencies
+  - `spring-boot-starter-web`
+  - `spring-boot-starter-data-jpa`
+  - `spring-boot-starter-mail`
+  - `spring-boot-starter-security`
+  - `spring-boot-starter-validation`
+  - `springdoc-openapi-starter-webmvc-ui`
+  - `postgresql`
+  - `lombok`
+  - `spring-retry`
+  - `jjwt`
+  - `jjwt-impl`
+  - `jjwt-api`
+  - `spring-boot-starter-cache`
+  - `caffeine`
+
+
+
 
 
 
