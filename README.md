@@ -8,10 +8,6 @@
 - These tokens are used to authorize users, ensuring that only verified users with valid tokens can access certain endpoints outside of the "/api/v1/auth/**" path.
 - To enhance reliability, a retry mechanism is implemented for email sending, which attempts to resend the OTP up to two more times in case of a system failure.
 - Additionally, the application includes robust validation checks, ensuring that request bodies meet the required criteria.
-
-
-
-
 ## Demo and Documentation
 - [Demo video](https://youtu.be/_5enBVGXVXs)
 - [Postman Documentation](https://documenter.getpostman.com/view/29367403/2sA3XJnQvU#9e002b3b-973d-48cc-b006-28765454f76d)
