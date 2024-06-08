@@ -12,6 +12,11 @@
 - [Demo video](https://youtu.be/_5enBVGXVXs)
 - [Postman Documentation](https://documenter.getpostman.com/view/29367403/2sA3XJnQvU#9e002b3b-973d-48cc-b006-28765454f76d)
 - [Swagger Documentation](https://jwt-authentication-authorization-for.onrender.com/swagger-ui/index.html)
+## Hosted Url
+To use the REST_APIs use this url
+```bash
+  https://jwt-authentication-authorization-for.onrender.com/
+```
 
 
 
