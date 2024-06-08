@@ -21,6 +21,8 @@
 * [![Swagger](https://img.shields.io/badge/API-Swagger-brightgreen)](https://swagger.io)
 * [![Spring Security](https://img.shields.io/badge/Security-Spring-green)](https://spring.io/projects/spring-security)
 * [![Java Mail Sender](https://img.shields.io/badge/Mail-Java%20Mail%20Sender-blue)](https://javaee.github.io/javamail/)
+* ![Cron Job](https://img.shields.io/badge/Cron%20Job-Scheduled%20Task-orange)
+
 
 
 
@@ -76,6 +78,8 @@ To use the REST_APIs use this url
 ![image](https://github.com/Sarthakverse/Jwt-Authentication-Authorization-for-SpringBoot-3.3.1/assets/117356021/e3254745-85f2-4950-a348-26be68096e1e)
 ![image](https://github.com/Sarthakverse/Jwt-Authentication-Authorization-for-SpringBoot-3.3.1/assets/117356021/d34badea-b925-400c-80a3-b309f6a923ef)
 ![image](https://github.com/Sarthakverse/Jwt-Authentication-Authorization-for-SpringBoot-3.3.1/assets/117356021/99a90f98-ad2a-4142-b169-6d06ccd2535a)
+![image](https://github.com/Sarthakverse/Jwt-Authentication-Authorization-for-SpringBoot-3.3.1/assets/117356021/4ab2b123-cc23-4b4c-82ee-f762e25eea50)
+
 
 <a id="contributing"></a>
 ## Contributing
