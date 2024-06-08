@@ -96,9 +96,9 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 <h1>Contact Information</h1>
 <ul class="contact-info">
-<li><strong>Email:</strong> <a href="sarthak2210047@akgec.ac.in">your-email@example.com</a></li>
+<li><strong>Email:</strong> <a href="mailto:sarthak2210047@akgec.ac.in">sarthak2210047@akgec.ac.in</a></li>
 <li><strong>GitHub:</strong> <a href="https://github.com/Sarthakverse" target="_blank">https://github.com/your-github-profile</a></li>
-<li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/sarthak-rastogi-47bb11256" target="_blank">https://www.linkedin.com/in/your-linkedin-profile</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sarthak-rastogi-47bb11256/" target="_blank">https://www.linkedin.com/in/sarthak-rastogi-47bb11256//</a></li>
 <li><strong>Phone:</strong> +(91) 8303913426</li>
 </ul>
    
